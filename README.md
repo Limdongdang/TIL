@@ -7,3 +7,4 @@
   * [Top Down Approach](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Top_down_approach)
   * [이진 검색 알고리즘](https://github.com/Limdongdang/TIL/blob/main/Algorithm/%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   * [마방진](https://github.com/Limdongdang/TIL/blob/main/Algorithm/%EB%A7%88%EB%B0%A9%EC%A7%84)
+  * [유클리드 알고리즘](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Euclidean%20algorithm.md)
