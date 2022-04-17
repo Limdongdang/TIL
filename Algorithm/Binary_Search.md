@@ -17,4 +17,5 @@ while(left <= right){   // 검색 범위에 값이 있는 경우
   else if(key > list[mid]) {left = mid + 1;} // .. 오른쪽에 있는 경우 왼쪽 범위 축소
   else return mid;   // 결과 값을 찾고 return
 }
+return -1;
 ```
