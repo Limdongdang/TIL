@@ -11,5 +11,6 @@
   * [이진 검색 알고리즘](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Binary_Search.md)
   * [마방진](https://github.com/Limdongdang/TIL/blob/main/Algorithm/%EB%A7%88%EB%B0%A9%EC%A7%84)
   * [유클리드 알고리즘](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Euclidean%20algorithm.md)
+  * [시간 복잡도](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Time%20Complexity.md)
 * Vue.js
   * [Vue](https://github.com/Limdongdang/TIL/blob/main/Vue.js/Vue.md)
