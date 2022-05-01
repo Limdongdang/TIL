@@ -12,5 +12,6 @@
   * [마방진](https://github.com/Limdongdang/TIL/blob/main/Algorithm/%EB%A7%88%EB%B0%A9%EC%A7%84)
   * [유클리드 알고리즘](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Euclidean%20algorithm.md)
   * [시간 복잡도](https://github.com/Limdongdang/TIL/blob/main/Algorithm/Time%20Complexity.md)
+  * [선택 정렬](https://github.com/Limdongdang/TIL/blob/main/Algorithm/selection_sort.md)
 * Vue.js
   * [Vue](https://github.com/Limdongdang/TIL/blob/main/Vue.js/Vue.md)
